@@ -1,0 +1,18 @@
+.navbar {
+  font-family: 'Pattaya', sans-serif;
+font-size: 25px; 
+
+}
+.font {
+  font-size: 30px;
+}
+body {
+  background-color: #C9CCD5;
+}
+.colorbtn {
+  background-color: #cad2d6;
+}
+.colorbtn:hover {
+  background-color: #b3c3ca;
+}
+
